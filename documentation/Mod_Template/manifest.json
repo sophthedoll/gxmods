@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "lucy",
+    "description": "edgerunner",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "sophthedoll"
     },
     "icons":
     {
@@ -133,30 +133,30 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 311,
+                        "s": 73,
+                        "l": 78
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 235,
+                        "s": 40,
+                        "l": 11
                     }
                 },
                 "light":
                 {
                     "gx_accent":
                     {
-                        "h": 112,
-                        "s": 80,
-                        "l": 44
+                        "h": 251,
+                        "s": 81,
+                        "l": 92
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 32,
-                        "l": 16
+                        "h": 246,
+                        "s": 35,
+                        "l": 21
                     }
                 }
             },
